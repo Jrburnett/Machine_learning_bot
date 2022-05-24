@@ -25,12 +25,12 @@ The second machine learning model I used was the decision tree model, this model
 # Conclusion
 All of the models tested can be seen in the PNG files below. In order to get a better machine learning bot, I would advise in adding more technical indicators and creating better signals that you can feed into your machine learning bot.
 
-![image]()
+![image](https://github.com/Jrburnett/Machine_learning_bot/blob/main/Images/decision_tree_Model.PNG)
 
-![image]()
+![image](https://github.com/Jrburnett/Machine_learning_bot/blob/main/Images/svm_Model.PNG)
 
-![image]()
+![image](https://github.com/Jrburnett/Machine_learning_bot/blob/main/Images/svm_Model_50MA.PNG)
 
-![image]()
+![image](https://github.com/Jrburnett/Machine_learning_bot/blob/main/Images/svm_Model_150MA.PNG)
 
-![image]()
+![image](https://github.com/Jrburnett/Machine_learning_bot/blob/main/Images/svm_Model_200MA.PNG)
