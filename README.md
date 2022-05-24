@@ -23,4 +23,14 @@ In establishing a baseline performance I imported the data that I needed, cleane
 ## Evaluate a New Machine Learning Classifier
 The second machine learning model I used was the decision tree model, this model performed similar to the previous model, towards the end but throughout performed different. You can see the results of this module in the decision_tree_Model.PNG.
 # Conclusion
-All of the models tested can be seen in the PNG files found above. In order to get a better machine learning bot, I would advise in adding more technical indicators and creating better signals that you can feed into your machine learning bot.
+All of the models tested can be seen in the PNG files below. In order to get a better machine learning bot, I would advise in adding more technical indicators and creating better signals that you can feed into your machine learning bot.
+
+![image]()
+
+![image]()
+
+![image]()
+
+![image]()
+
+![image]()
