@@ -1,15 +1,15 @@
 # Machine_learning_bot
 machine learning trading bot
 # Libraries 
-- import pandas as pd
-- import numpy as np
-- from pathlib import Path
-- import hvplot.pandas
-- import matplotlib.pyplot as plt
-- from sklearn import svm
-- from sklearn.preprocessing import StandardScaler
-- from pandas.tseries.offsets import DateOffset
-- from sklearn.metrics import classification_report
+- pandas
+- numpy 
+- pathlib 
+- hvplot.pandas
+- matplotlib.pyplot
+- sklearn 
+- sklearn.preprocessing 
+- pandas.tseries.offsets
+- sklearn.metrics
 # Purpose
 ## Establish Baseline Performance
 In establishing a baseline performance I imported the data that I needed, cleaned said data, and added SMA slow and fast, followed by a signal column that tells when to buy or sell. I then created strategy returns by mulitplying actual returns by the prior trading singal. I then implemented the first machine learning ascpect by setting up my svm model. 
